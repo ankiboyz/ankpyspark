@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/ankpyspark_env" />
+    </content>
+    <content url="jar:///Ank-MiscFiles/mongo-spark-a3eb5ecb5cdf0fda1de9334f350b3b17e07316e7.zip!/" />
+    <content url="jar:///sparkfiles/spark-2.4.5-bin-hadoop2.7/python/lib/py4j-0.10.7-src.zip!/" />
+    <content url="jar:///sparkfiles/spark-2.4.5-bin-hadoop2.7/python/lib/pyspark.zip!/" />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+  <component name="PyDocumentationSettings">
+    <option name="format" value="PLAIN" />
+    <option name="myDocStringFormat" value="Plain" />
+  </component>
+</module>
